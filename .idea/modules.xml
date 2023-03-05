@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/a_oopProject_01/a_oopProject_01.iml" filepath="$PROJECT_DIR$/a_oopProject_01/a_oopProject_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/b_extends_02/b_extends_02.iml" filepath="$PROJECT_DIR$/b_extends_02/b_extends_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c_traitProject_03/c_traitProject_03.iml" filepath="$PROJECT_DIR$/c_traitProject_03/c_traitProject_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d_packageProject_04/d_packageProject_04.iml" filepath="$PROJECT_DIR$/d_packageProject_04/d_packageProject_04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e_collectionProject_05/e_collectionProject_05.iml" filepath="$PROJECT_DIR$/e_collectionProject_05/e_collectionProject_05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/scala_demo.iml" filepath="$PROJECT_DIR$/.idea/scala_demo.iml" />
+    </modules>
+  </component>
+</project>
