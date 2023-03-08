@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/c_traitProject_03/c_traitProject_03.iml" filepath="$PROJECT_DIR$/c_traitProject_03/c_traitProject_03.iml" />
       <module fileurl="file://$PROJECT_DIR$/d_packageProject_04/d_packageProject_04.iml" filepath="$PROJECT_DIR$/d_packageProject_04/d_packageProject_04.iml" />
       <module fileurl="file://$PROJECT_DIR$/e_collectionProject_05/e_collectionProject_05.iml" filepath="$PROJECT_DIR$/e_collectionProject_05/e_collectionProject_05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/f_genericProject_06/f_genericProject_06.iml" filepath="$PROJECT_DIR$/f_genericProject_06/f_genericProject_06.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/scala_demo.iml" filepath="$PROJECT_DIR$/.idea/scala_demo.iml" />
     </modules>
   </component>
