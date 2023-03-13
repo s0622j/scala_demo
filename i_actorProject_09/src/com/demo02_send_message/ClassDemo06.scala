@@ -41,7 +41,7 @@ object ClassDemo06 {
     MsgActor.start()
 
     //4. 通过MainActor给MsgActor采用 异步有返回的形式发送数据, 并接收.
-    //补充: 采用同步又返回的形式发送.
+    //补充: 采用同步又返回的形式发送.在没有接收到返回信息时不会往下执行
     /*println(1)
     val result = MsgActor !? Message(1, "你好呀, 我是MainActor, 我在给你发送消息")
     println(result)
