@@ -8,6 +8,9 @@
       <module fileurl="file://$PROJECT_DIR$/d_packageProject_04/d_packageProject_04.iml" filepath="$PROJECT_DIR$/d_packageProject_04/d_packageProject_04.iml" />
       <module fileurl="file://$PROJECT_DIR$/e_collectionProject_05/e_collectionProject_05.iml" filepath="$PROJECT_DIR$/e_collectionProject_05/e_collectionProject_05.iml" />
       <module fileurl="file://$PROJECT_DIR$/f_genericProject_06/f_genericProject_06.iml" filepath="$PROJECT_DIR$/f_genericProject_06/f_genericProject_06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/g_traversableProject_07/g_traversableProject_07.iml" filepath="$PROJECT_DIR$/g_traversableProject_07/g_traversableProject_07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/h_iterableProject_08/h_iterableProject_08.iml" filepath="$PROJECT_DIR$/h_iterableProject_08/h_iterableProject_08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/i_actorProject_09/i_actorProject_09.iml" filepath="$PROJECT_DIR$/i_actorProject_09/i_actorProject_09.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/scala_demo.iml" filepath="$PROJECT_DIR$/.idea/scala_demo.iml" />
     </modules>
   </component>
