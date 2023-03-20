@@ -7,5 +7,35 @@
         <parameter value="E:\BaiduNetdiskDownload\2021HM\scala_workspace\scala_demo\j_akkaProject_10\a_akka-demo\target/.scala_dependencies" />
       </parameters>
     </profile>
+    <profile name="Maven 2" modules="b_akka-worker">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="E:\BaiduNetdiskDownload\2021HM\scala_workspace\scala_demo\j_akkaProject_10\b_akka-worker\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 3" modules="b_akka-master">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="E:\BaiduNetdiskDownload\2021HM\scala_workspace\scala_demo\j_akkaProject_10\b_akka-master\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 4" modules="c_spark-demo-master">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="E:\BaiduNetdiskDownload\2021HM\scala_workspace\scala_demo\j_akkaProject_10\c_spark-demo-master\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 5" modules="c_spark-demo-worker">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="E:\BaiduNetdiskDownload\2021HM\scala_workspace\scala_demo\j_akkaProject_10\c_spark-demo-worker\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 6" modules="c_spark-demo-common">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="E:\BaiduNetdiskDownload\2021HM\scala_workspace\scala_demo\j_akkaProject_10\c_spark-demo-common\target/.scala_dependencies" />
+      </parameters>
+    </profile>
   </component>
 </project>

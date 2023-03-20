@@ -5,6 +5,12 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/j_akkaProject_10/a_akka-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/j_akkaProject_10/b_akka-worker/pom.xml" />
+        <option value="$PROJECT_DIR$/j_akkaProject_10/b_akka-master/pom.xml" />
+        <option value="$PROJECT_DIR$/j_akkaProject_10/c_spark-demo-common/pom.xml" />
+        <option value="$PROJECT_DIR$/j_akkaProject_10/c_spark-demo-master/pom.xml" />
+        <option value="$PROJECT_DIR$/c_spark-demo-worker/pom.xml" />
+        <option value="$PROJECT_DIR$/j_akkaProject_10/c_spark-demo-worker/pom.xml" />
       </list>
     </option>
   </component>

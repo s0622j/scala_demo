@@ -6,7 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="b_akka-worker" />
+        <module name="c_spark-demo-common" />
+        <module name="b_akka-master" />
         <module name="a_akka-demo" />
+        <module name="c_spark-demo-master" />
+        <module name="c_spark-demo-worker" />
       </profile>
     </annotationProcessing>
   </component>
